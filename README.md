@@ -1,4 +1,4 @@
-# rsat-rest-java-client
+# rsat-rest-java-clients
 
 This module is a Java Client for the Regulatory Sequence Analysis Tools (RSAT) 
 [RESTful API](http://rsat-tagc.univ-mrs.fr/rest/). 
